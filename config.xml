@@ -2,17 +2,17 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
     id        = "com.phonegap.example"
-    version   = "1.0.0">
+    version   = "1.0.1">
 
 <name>Leisure Treasure Hunt</name>
 
 <description>
-A simple PhoneGap Build application.
+A simple PhoneGap Build application for the world.
 </description>
 
 <author href="https://example.com" email="you@example.com">
 Jered
 </author>
 
-<preference name="phonegap-version" value="3.3.0" />
+<preference name="phonegap-version" value="6.3.0" />
 </widget>
